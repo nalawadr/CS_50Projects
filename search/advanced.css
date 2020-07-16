@@ -1,0 +1,38 @@
+form {
+    text-align: left;
+}
+
+#sub {
+    margin-top: 10px;
+}
+
+#search {
+    text-align: right;
+    margin-right: 20px;
+}
+
+#submitbut {
+    padding-left: 460px;
+    padding-top: 15px;
+}
+
+#button {
+    background-color: #4d90fe; 
+    color: #fff; 
+    box-shadow: none;
+    border: 1px solid #3079ed;
+    border-radius: 2px;
+    height: 30px;
+    font-size: 12px;
+    width: 125px;
+}
+
+a {
+    color: black;
+}
+
+input[type="text"] {
+    padding: 1px 5px;
+    margin-top: 10px;
+    width: 400px;
+}
